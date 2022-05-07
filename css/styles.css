@@ -713,8 +713,8 @@ header {
     margin-bottom: 12px;
 }
 
-.modal .item:not(:last-child) {
-    padding-bottom: 4px;
+.form-field.pic:not(:last-child) {
+    margin-bottom: 4px;
 }
 
 .modal span {
